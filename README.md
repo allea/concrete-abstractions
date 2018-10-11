@@ -1,3 +1,3 @@
 # concrete-abstractions
 
-solutions for the exercises of the 'concrete abstractions' book
+solutions for the (hard - IMHO) exercises of the 'concrete abstractions' book
